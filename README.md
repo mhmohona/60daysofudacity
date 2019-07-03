@@ -1,6 +1,13 @@
 # 60daysofudacity
 
-### Day: July 1, 2019
-**Progress**: Working on project Food recommendation system.
+### Day 1 : July 1, 2019:
+Working on project Food recommendation system.
 
-**Link Of Work:** 
+
+### Day 2 : July 2, 2019: 
+Working on project Food recommendation system.
+
+### Day 3: July 3, 2019: 
+attended Webinar on Problem solving using AI by QuantumBlack
+
+
