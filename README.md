@@ -15,3 +15,5 @@ Working on project Food recommendation system.
 
 ### Day 5: July 5, 2019: 
 Created study group and have made plan with them.
+
+Day 6
