@@ -1,13 +1,13 @@
 # 60daysofudacity
 
-###Day 10: Jupy 10, 2019:
+### Day 10: Jupy 10, 2019:
 
 
 
-###Day 9: July 9, 2019: 
+### Day 9: July 9, 2019: 
 Worked on thesis project
 
-###Day 8: July 8, 2019: 
+### Day 8: July 8, 2019: 
 Had meeting with team for kaggle competition
 
 ### Day 7: July 7, 2019: 
