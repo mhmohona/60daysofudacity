@@ -10,6 +10,8 @@
 - at least 15 minutes for personal project
 
 **Progress:**
+ - Had our very first meet up for #sg_wrldwde-women-cdrs with @Helena Barmer @Deasy Indrawati @Shashi Gharti @Marwa @Medha Gupta.
+ - Had our third meeting with 
 
 Motivation of the day: *Dont you think you should work harder, Mohona?* 
 
