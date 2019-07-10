@@ -1,6 +1,17 @@
 # 60daysofudacity
 
 ### Day 10: Jupy 10, 2019:
+**Target:** 
+- studing for uni's quize -_- 
+- completing **food recomandation system**
+- Creating repo for Kaggle compition
+- start working on [Titanic](https://www.kaggle.com/c/titanic)
+- solving math quize in #Math_help
+- at least 15 minutes for personal project
+
+**Progress:**
+
+*a quote for me:* 
 
 
 
