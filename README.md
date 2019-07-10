@@ -1,6 +1,6 @@
 # 60daysofudacity
 
-### Day 10: Jupy 10, 2019:
+### Day 10: July 10, 2019:
 **Target:** 
 - studing for uni's quize -_- 
 - completing **food recomandation system**
@@ -11,8 +11,7 @@
 
 **Progress:**
 
-
-*A line for me: Dont you think you should work harder, Mohona?* 
+Motivation of the day: *Dont you think you should work harder, Mohona?* 
 
 
 ### Day 9: July 9, 2019: 
