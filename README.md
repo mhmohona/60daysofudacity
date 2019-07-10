@@ -12,7 +12,7 @@
 **Progress:**
 
 
-*A line for me: Dont you think you should work harder, Mohona? * 
+*A line for me: Dont you think you should work harder, Mohona?* 
 
 
 ### Day 9: July 9, 2019: 
