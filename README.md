@@ -1,5 +1,18 @@
 # 60daysofudacity
 
+
+### Day 11: July 11, 2019:
+
+**Target:** 
+- opening a repo for  #sg_spaic-kagglers
+- completing **food recomandation system**
+- Create repo for Kaggle compition
+- start working on [Titanic](https://www.kaggle.com/c/titanic)
+- solving math quize in #Math_help
+- one hour for personal project.
+- meeting with #sg_wonder_vision 
+- As organizer writing announcement for Hackathon.
+
 ### Day 10: July 10, 2019:
 
 **Target:** 
