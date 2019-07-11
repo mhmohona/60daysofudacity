@@ -2,12 +2,19 @@
 
 Teams I got involved with 
 *#sg_hackathon-orgnizrs : organizing hackathon.*
+
 *#sg_spaic-kagglers : working on Kaggle project.*
+
 *#sg_cognitive-learners : Kaggle Project*
+
 *#sg_applied_dl : Kaggle Project*
+
 *#sg_wonder_vision : object detection.*
+
 *#sg_wrldwde-women-cdrs : NNs and CNNs*
+
 *#sg_scorchers : Patient hospital dataset and security.*
+
 *#sg_dlstarguys : Maths of ML and DL.*
 
 
