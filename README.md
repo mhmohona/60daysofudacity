@@ -25,13 +25,17 @@ Teams I got involved with
 - start working on [Titanic](https://www.kaggle.com/c/titanic)
 - solving math quize in #Math_help
 - one hour for personal project.
-- As organizer writing announcement for Hackathon.
 
 ### Day 11: July 11, 2019:
 
 **Progress:**
+- Announced Hackathon 
 - Had meeting for #sg_wonder_vision with @Shashi Gharti @Mahak Bansal @Sourav @Helena Barmer  @Dilip Kumar Meher @Joyce Obi @Elena Kutanov @Pooja Vinod @Rupesh @Prabha Venkatesh 
-- 
+- Had meeting for #sg_bangladeshi-schlrs 
+- Had our third meeting for #sg_spaic-kagglers with  @Marwa @Shubhendu Mishra @Richaldo_Elias @Labiba @Munira Omar and working on this [Kernel]( https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic)
+
+ 
+ Motivation of the day: *In Sha Allah I can do this!* 
 
 ### Day 10: July 10, 2019:
 
