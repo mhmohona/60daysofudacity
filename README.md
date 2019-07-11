@@ -1,7 +1,15 @@
 # 60daysofudacity
 
+Teams I got involved with 
+*#sg_hackathon-orgnizrs : organizing hackathon.*
+*#sg_spaic-kagglers : working on Kaggle project.*
+*#sg_cognitive-learners : Kaggle Project*
+*#sg_applied_dl : Kaggle Project*
+*#sg_wonder_vision : object detection.*
+*#sg_wrldwde-women-cdrs : NNs and CNNs*
+*#sg_scorchers : Patient hospital dataset and security.*
+*#sg_dlstarguys : Maths of ML and DL.*
 
-### Day 11: July 11, 2019:
 
 **Target:** 
 - opening a repo for  #sg_spaic-kagglers
@@ -10,18 +18,15 @@
 - start working on [Titanic](https://www.kaggle.com/c/titanic)
 - solving math quize in #Math_help
 - one hour for personal project.
-- meeting with #sg_wonder_vision 
 - As organizer writing announcement for Hackathon.
 
-### Day 10: July 10, 2019:
+### Day 11: July 11, 2019:
 
-**Target:** 
-- studing for uni's quize -_- 
-- completing **food recomandation system**
-- Create repo for Kaggle compition
-- start working on [Titanic](https://www.kaggle.com/c/titanic)
-- solving math quize in #Math_help
-- at least 15 minutes for personal project
+**Progress:**
+- Had meeting for #sg_wonder_vision with @Shashi Gharti @Mahak Bansal @Sourav @Helena Barmer  @Dilip Kumar Meher @Joyce Obi @Elena Kutanov @Pooja Vinod @Rupesh @Prabha Venkatesh 
+- 
+
+### Day 10: July 10, 2019:
 
 **Progress:**
  - Had our very first meet up for #sg_wrldwde-women-cdrs with @Helena Barmer @Deasy Indrawati @Shashi Gharti @Marwa @Medha Gupta.
