@@ -13,6 +13,7 @@
 **Progress:**
  - Had our very first meet up for #sg_wrldwde-women-cdrs with @Helena Barmer @Deasy Indrawati @Shashi Gharti @Marwa @Medha Gupta.
  - Had our third meeting for #sg_spaic-kagglers with  @Marwa @Shubhendu Mishra @Richaldo_Elias @Labiba @Munira Omar and gonna work on this [Kernel]( https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic)
+ - done uni's quize, but it was not good-_- 
 
 Motivation of the day: *Dont you think you should work harder, Mohona?* 
 
