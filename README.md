@@ -31,10 +31,18 @@ Teams I got involved with
 ### Day 11: July 11, 2019:
 
 **Progress:**
+
+Today's Motivation : 
+![Capture](https://user-images.githubusercontent.com/14244685/61166422-eafd1f00-a54e-11e9-9784-ba75c5599431.PNG)
+
+
+### Day 11: July 11, 2019:
+
+**Progress:**
 - working on organizing Hackathon : https://www.kaggle.com/spaics/datasets
 - Had our forth meeting for #sg_spaic-kagglers with  @Marwa @Shubhendu Mishra @Richaldo_Elias @Labiba @Munira Omar and working on this [Kernel]( https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic)
 
-Motivation of the day: *It was not a productive day :(* 
+Today's Motivation : *It was not a productive day :(* 
 
 ### Day 11: July 11, 2019:
 
@@ -45,7 +53,7 @@ Motivation of the day: *It was not a productive day :(*
 - Had our third meeting for #sg_spaic-kagglers with  @Marwa @Shubhendu Mishra @Richaldo_Elias @Labiba @Munira Omar and working on this [Kernel]( https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic)
 
  
- Motivation of the day: *In Sha Allah I can do this!* 
+ Today's Motivation : *In Sha Allah I can do this!* 
 
 ### Day 10: July 10, 2019:
 
@@ -54,7 +62,7 @@ Motivation of the day: *It was not a productive day :(*
  - Had our third meeting for #sg_spaic-kagglers with  @Marwa @Shubhendu Mishra @Richaldo_Elias @Labiba @Munira Omar and gonna work on this [Kernel]( https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic)
  - done uni's quize, but it was not good-_- 
 
-Motivation of the day: *Dont you think you should work harder, Mohona?* 
+Today's Motivation : *Dont you think you should work harder, Mohona?* 
 
 
 ### Day 9: July 9, 2019: 
