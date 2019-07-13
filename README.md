@@ -17,6 +17,8 @@ Teams I got involved with
 
 *#sg_dlstarguys : Maths of ML and DL.*
 
+*#sg_depressn-detectn : Maths of ML and DL.*
+
 
 **Target:** 
 - opening a repo for  #sg_spaic-kagglers
@@ -25,6 +27,14 @@ Teams I got involved with
 - start working on [Titanic](https://www.kaggle.com/c/titanic)
 - solving math quize in #Math_help
 - one hour for personal project.
+
+### Day 11: July 11, 2019:
+
+**Progress:**
+- working on organizing Hackathon : https://www.kaggle.com/spaics/datasets
+- Had our forth meeting for #sg_spaic-kagglers with  @Marwa @Shubhendu Mishra @Richaldo_Elias @Labiba @Munira Omar and working on this [Kernel]( https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic)
+
+Motivation of the day: *It was not a productive day :( * 
 
 ### Day 11: July 11, 2019:
 
