@@ -34,7 +34,7 @@ Teams I got involved with
 - working on organizing Hackathon : https://www.kaggle.com/spaics/datasets
 - Had our forth meeting for #sg_spaic-kagglers with  @Marwa @Shubhendu Mishra @Richaldo_Elias @Labiba @Munira Omar and working on this [Kernel]( https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic)
 
-Motivation of the day: *It was not a productive day :( * 
+Motivation of the day: *It was not a productive day :(* 
 
 ### Day 11: July 11, 2019:
 
