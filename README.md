@@ -5,7 +5,7 @@ Teams I got involved with
 
 *#sg_spaic-kagglers : working on Kaggle project.*
 
-*#[sg_cognitive-learners](https://github.com/mhmohona/CognitiveLearners-MediumTrack) : Kaggle Project*
+*#[sg_cognitive-learners](https://github.com/mhmohona/CognitiveLearners-MediumTrack) : image denoising using autoencoder*
 
 *#sg_applied_dl : Kaggle Project*
 
