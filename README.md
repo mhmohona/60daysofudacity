@@ -28,15 +28,16 @@ Teams I got involved with
 - solving math quize in #Math_help
 - one hour for personal project.
 
-### Day 11: July 11, 2019:
+### Day 13: July 13, 2019:
 
 **Progress:**
+-  Had a virtual meet-up and discussed our project "Denoising autoencoders"
 
 Today's Motivation : 
 ![Capture](https://user-images.githubusercontent.com/14244685/61166422-eafd1f00-a54e-11e9-9784-ba75c5599431.PNG)
 
 
-### Day 11: July 11, 2019:
+### Day 12: July 12, 2019:
 
 **Progress:**
 - working on organizing Hackathon : https://www.kaggle.com/spaics/datasets
