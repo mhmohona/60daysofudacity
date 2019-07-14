@@ -1,4 +1,8 @@
 # 60daysofudacity
+I pledge to engage with my 'Secure & Private AI Challenge' community for at least 30 minutes per day for the next 60 days. 😎
+
+![65584241_2290207797724529_4529659062266101760_n](https://user-images.githubusercontent.com/14244685/61179254-ccffef00-a620-11e9-9bef-83eebb7e8161.jpg)
+
 
 Teams I got involved with 
 *#sg_hackathon-orgnizrs : organizing hackathon.*
@@ -53,6 +57,7 @@ Today's Motivation : *It was not a productive day :(*
 - Had meeting for #sg_bangladeshi-schlrs 
 - Had our third meeting for #sg_spaic-kagglers with  @Marwa @Shubhendu Mishra @Richaldo_Elias @Labiba @Munira Omar and working on this [Kernel]( https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic)
 - Announced Hackathon 
+
 ![Capture](https://user-images.githubusercontent.com/14244685/61179127-11d65680-a61e-11e9-9e5f-dfc6edae4cb5.PNG)
 
 
