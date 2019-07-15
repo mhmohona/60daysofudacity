@@ -13,7 +13,7 @@ Teams I got involved with
 
 *#sg_applied_dl : Kaggle Project*
 
-*#sg_wonder_vision : object detection.*
+*#[sg_wonder_vision](https://github.com/mahakbansal/Object-Detection-60daysofudacity) : object detection.*
 
 *#sg_wrldwde-women-cdrs : NNs and CNNs*
 
@@ -35,7 +35,7 @@ https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic
 ### Day 15: July 15, 2019:
 
 **Progress:**
-- done! 
+- 
 
 ### Day 14: July 14, 2019:
 
