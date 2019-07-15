@@ -21,21 +21,35 @@ Teams I got involved with
 
 *#sg_dlstarguys : Maths of ML and DL.*
 
-*#sg_depressn-detectn : Maths of ML and DL.*
+*#sg_depressn-detectn : Predecting depression based on social media posts.*
 
 
 **Target:** 
 - opening a repo for  #sg_spaic-kagglers
 - completing **food recomandation system**
 - Create repo for Kaggle compition
-- start working on [Titanic](https://www.kaggle.com/c/titanic)
 - solving math quize in #Math_help
 - one hour for personal project.
+https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic
+
+### Day 15: July 15, 2019:
+
+**Progress:**
+- done! 
+
+### Day 14: July 14, 2019:
+
+**Progress:**
+- Worked on organizing hackathon -https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+- had meetup in 
+- worked on Titanic and watched few videos.
+
 
 ### Day 13: July 13, 2019:
 
 **Progress:**
--  Had a virtual meet-up and discussed our project "Denoising autoencoders"
+- Had a virtual meet-up and discussed our project "Denoising autoencoders"
+- worked on food recomandation system project
 
 Today's Motivation : 
 ![Capture](https://user-images.githubusercontent.com/14244685/61166422-eafd1f00-a54e-11e9-9784-ba75c5599431.PNG)
