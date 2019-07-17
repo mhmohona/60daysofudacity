@@ -32,10 +32,22 @@ Teams I got involved with
 - one hour for personal project.
 https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic
 
+### Day 16: July 16, 2019:
+
+**Progress:**
+- Had meeting in #sg_depressn-detectn with @Labiba @Mohona @Droid @Marwa @Mushrifah Hasan and @anne and set plan wor working on this week.
+- had meeting in #sg_spaic-kagglers with @Shubhendu Mishra @Munira Omar @Labiba @Richaldo_Elias @Marwa and planned to work on this https://www.kaggle.com/c/digit-recognizer
+-  worked for ***Hackathon Blossom***  with @Arka @Mohona @Ivy @Mushrifah Hasan @Munira Omar @Amina Assouane @George Christopoulos @Jeet and @annaSWE 
+
+*Today's motivation :Want to work on Depressio project more seriously.* 
+
 ### Day 15: July 15, 2019:
 
 **Progress:**
-- 
+- had meeting in #sg_wonder_vision with @Arunn @nabhanpv @James Korge @Gowtham kumar Kammana  @Mohona @Pooja Vinod @Temitope Oladokun @pranita shrestha @Vamsi @Rupesh Purum @Seeratpal K. Jaura @Joyce Obi @Helena Barmer @Mahak Bansal and set tasks for next week.
+- completed **Food recomandation system** project.
+
+*Today's motivation : When you have 99 reasons to give up, find one reason to hold on.* 
 
 ### Day 14: July 14, 2019:
 
