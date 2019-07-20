@@ -3,6 +3,12 @@ I pledge to engage with my 'Secure & Private AI Challenge' community for at leas
 
 ![65584241_2290207797724529_4529659062266101760_n](https://user-images.githubusercontent.com/14244685/61179254-ccffef00-a620-11e9-9bef-83eebb7e8161.jpg)
 
+## Initiatives I am organizin
+- Organizing Kaggle Hackathon
+- Blogging challenge
+- Job club
+- Ice breaking session in #Introduction channel
+
 
 Teams I got involved with 
 *#sg_hackathon-orgnizrs : organizing hackathon.*
