@@ -41,6 +41,18 @@ https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic
 ### Day 16: July 16, 2019:
 
 **Progress:**
+
+### Day 16: July 16, 2019:
+
+**Progress:**
+
+### Day 16: July 16, 2019:
+
+**Progress:**
+
+### Day 16: July 16, 2019:
+
+**Progress:**
 - Had meeting in #sg_depressn-detectn with @Labiba @Mohona @Droid @Marwa @Mushrifah Hasan and @anne and set plan wor working on this week.
 - had meeting in #sg_spaic-kagglers with @Shubhendu Mishra @Munira Omar @Labiba @Richaldo_Elias @Marwa and planned to work on this https://www.kaggle.com/c/digit-recognizer
 -  worked for ***Hackathon Blossom***  with @Arka @Mohona @Ivy @Mushrifah Hasan @Munira Omar @Amina Assouane @George Christopoulos @Jeet and @annaSWE 
