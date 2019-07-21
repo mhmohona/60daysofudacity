@@ -38,19 +38,14 @@ Teams I got involved with
 - one hour for personal project.
 https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic
 
-### Day 16: July 16, 2019:
+### Day 21: July 21, 2019:
 
 **Progress:**
 
-### Day 16: July 16, 2019:
+### Day 21: July 21, 2019:
 
 **Progress:**
 
-### Day 16: July 16, 2019:
-
-**Progress:**
-
-### Day 16: July 16, 2019:
 
 **Progress:**
 - Had meeting in #sg_depressn-detectn with @Labiba @Mohona @Droid @Marwa @Mushrifah Hasan and @anne and set plan wor working on this week.
