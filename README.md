@@ -10,18 +10,12 @@ I pledge to engage with my 'Secure & Private AI Challenge' community for at leas
 - Ice breaking session in #Introduction channel
 
 
-Teams I got involved with 
+## Teams I am working with 
 *#sg_hackathon-orgnizrs : organizing hackathon.*
 
 *#sg_spaic-kagglers : working on Kaggle project.*
 
-*#[sg_cognitive-learners](https://github.com/mhmohona/CognitiveLearners-MediumTrack) : image denoising using autoencoder*
-
 *#sg_applied_dl : Kaggle Project*
-
-*#[sg_wonder_vision](https://github.com/mahakbansal/Object-Detection-60daysofudacity) : object detection.*
-
-*#sg_wrldwde-women-cdrs : NNs and CNNs*
 
 *#sg_scorchers : Patient hospital dataset and security.*
 
@@ -29,22 +23,39 @@ Teams I got involved with
 
 *#sg_depressn-detectn : Predecting depression based on social media posts.*
 
+*#sg_caffeine_coders : Detecting depression on twitter post*
 
-**Target:** 
-- opening a repo for  #sg_spaic-kagglers
-- completing **food recomandation system**
-- Create repo for Kaggle compition
-- solving math quize in #Math_help
-- one hour for personal project.
-https://www.kaggle.com/munniomer/sg-spaic-kagglers-titanic
+*#sg_spai-health : Mental health*
+
+
+Worked previously, now left
+
+*#[sg_wonder_vision](https://github.com/mahakbansal/Object-Detection-60daysofudacity) : object detection.*
+
+*#sg_wrldwde-women-cdrs : NNs and CNNs*
+
+*#[sg_cognitive-learners](https://github.com/mhmohona/CognitiveLearners-MediumTrack) : image denoising using autoencoder*
+
+
+
+
+
+
+### Day 22: July 21, 2019:
+
+**Progress:**
+
+
 
 ### Day 21: July 21, 2019:
 
 **Progress:**
+- left few groups cause want to focus on one topic
+- Worked on research paper
+- read research paper
 
-### Day 21: July 21, 2019:
-
-**Progress:**
+*Today's motivtion*
+![Capture](https://user-images.githubusercontent.com/14244685/61603827-f93eef80-ac60-11e9-9771-74459efd232f.PNG)
 
 
 **Progress:**
