@@ -41,9 +41,15 @@ Worked previously, now left
 
 
 
-### Day 22: July 21, 2019:
+### Day 22: July 22, 2019:
+
+Target
+- read two research papers
+- check Anne's trello board and comment there
+- find more research papers
 
 **Progress:**
+
 
 
 
