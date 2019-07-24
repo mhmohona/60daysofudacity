@@ -38,8 +38,20 @@ Worked previously, now left
 
 
 
-https://www.computing.dcu.ie/~ray/teaching/CA485/notes/01_how_to_read_a_paper.pdf?source=post_page---------------------------
 
+
+
+### Day 24: July 24, 2019:
+
+**Progress:**
+- Read this research paper : https://www.computing.dcu.ie/~ray/teaching/CA485/notes/01_how_to_read_a_paper.pdf?source=post_page---------------------------
+
+
+### Day 23: July 23, 2019:
+
+**Progress:**
+- working on organizing Hackathon https://www.kaggle.com/spaics/virtual-hackathoncars-dataset
+- read research paper: http://dspace.bracu.ac.bd/xmlui/handle/10361/12274
 
 ### Day 22: July 22, 2019:
 
@@ -53,7 +65,7 @@ Target
 ![sg_dlstarguys  meeting](https://user-images.githubusercontent.com/14244685/61775932-c42acc80-ae1b-11e9-8923-c4a1e93e7e7b.png)
 - discussed about organizing  **Math blogging chalenge**.
 
-
+*Todays Motivation : nothing -_-*
 
 ### Day 21: July 21, 2019:
 
@@ -67,11 +79,19 @@ Target
 
 
 **Progress:**
-- Had meeting in #sg_depressn-detectn with @Labiba @Mohona @Droid @Marwa @Mushrifah Hasan and @anne and set plan wor working on this week.
+- Had meeting in #sg_depressn-detectn with @Labiba  @Droid @Marwa @Mushrifah Hasan and @anne and set plan wor working on this week.
 - had meeting in #sg_spaic-kagglers with @Shubhendu Mishra @Munira Omar @Labiba @Richaldo_Elias @Marwa and planned to work on this https://www.kaggle.com/c/digit-recognizer
 -  worked for ***Hackathon Blossom***  with @Arka @Mohona @Ivy @Mushrifah Hasan @Munira Omar @Amina Assouane @George Christopoulos @Jeet and @annaSWE 
 
-*Today's motivation :Want to work on Depressio project more seriously.* 
+*Today's motivation :Want to work on Depressio project more seriously.*
+
+### Day 20: July 20, 2019:
+
+**Progress**
+- organized second hackathon **Hackathon Automatic** and worked for it.
+![Capture](https://user-images.githubusercontent.com/14244685/61776451-dce7b200-ae1c-11e9-9dbc-d97b05af414c.PNG)
+
+*Today's Motivation : positive feedback from people who participated hackathon*
 
 ### Day 15: July 15, 2019:
 
