@@ -38,7 +38,7 @@ Worked previously, now left
 
 
 
-
+https://www.computing.dcu.ie/~ray/teaching/CA485/notes/01_how_to_read_a_paper.pdf?source=post_page---------------------------
 
 
 ### Day 22: July 22, 2019:
@@ -49,7 +49,9 @@ Target
 - find more research papers
 
 **Progress:**
-
+- Hosted a meetup in #sg_dlstarguys, this my first experience of hosting and i am still shaking! 
+![sg_dlstarguys  meeting](https://user-images.githubusercontent.com/14244685/61775932-c42acc80-ae1b-11e9-8923-c4a1e93e7e7b.png)
+- discussed about organizing  **Math blogging chalenge**.
 
 
 
@@ -60,7 +62,7 @@ Target
 - Worked on research paper
 - read research paper
 
-*Today's motivtion*
+*Today's motivtion : Its amaizing to see how they are working hard to reach their goal*
 ![Capture](https://user-images.githubusercontent.com/14244685/61603827-f93eef80-ac60-11e9-9771-74459efd232f.PNG)
 
 
