@@ -38,13 +38,19 @@ Worked previously, now left
 
 
 
+### Day 25: July 25, 2019:
 
+**Progress:**
+- 
 
 
 ### Day 24: July 24, 2019:
 
 **Progress:**
 - Read this research paper : https://www.computing.dcu.ie/~ray/teaching/CA485/notes/01_how_to_read_a_paper.pdf?source=post_page---------------------------
+- discussed about lunching **math blogging challenge**
+
+*todays Motivation : something *
 
 
 ### Day 23: July 23, 2019:
@@ -52,6 +58,8 @@ Worked previously, now left
 **Progress:**
 - working on organizing Hackathon https://www.kaggle.com/spaics/virtual-hackathoncars-dataset
 - read research paper: http://dspace.bracu.ac.bd/xmlui/handle/10361/12274
+
+*todays Motivation : something *
 
 ### Day 22: July 22, 2019:
 
