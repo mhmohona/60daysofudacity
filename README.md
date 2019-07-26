@@ -41,7 +41,9 @@ Worked previously, now left
 ### Day 25: July 25, 2019:
 
 **Progress:**
-- 
+- Worked with Coorganizers and Published **Hackathon Auto-matic car**'s result
+- searched research paper in Reddit
+- digging deeper www.arxiv-sanity.com
 
 
 ### Day 24: July 24, 2019:
