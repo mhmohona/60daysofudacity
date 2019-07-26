@@ -45,6 +45,7 @@ Worked previously, now left
 - searched research paper in Reddit
 - digging deeper www.arxiv-sanity.com
 
+*todays Motivation : something *
 
 ### Day 24: July 24, 2019:
 
