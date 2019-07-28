@@ -36,7 +36,10 @@ Worked previously, now left
 
 *#[sg_cognitive-learners](https://github.com/mhmohona/CognitiveLearners-MediumTrack) : image denoising using autoencoder*
 
+### Day 27: July 27, 2019:
 
+**Progress:**
+IT WAS MY BIRTHDAY!!!
 
 ### Day 25: July 25, 2019:
 
@@ -46,6 +49,7 @@ Worked previously, now left
 - digging deeper www.arxiv-sanity.com
 
 *todays Motivation : something *
+
 
 ### Day 24: July 24, 2019:
 
