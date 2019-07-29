@@ -45,9 +45,10 @@ Worked previously, now left
 ![meeting](https://user-images.githubusercontent.com/14244685/62067954-d01cf100-b256-11e9-9251-5c035045fcb7.png)
 
 
-### Day 27: July 27, 2019:
+### Day 28: July 28, 2019:
 
 **Progress:**
+![mathblogging competition announcement](https://user-images.githubusercontent.com/14244685/62068045-0f4b4200-b257-11e9-9387-4cf11cad1672.PNG)
 
 
 ### Day 27: July 27, 2019:
