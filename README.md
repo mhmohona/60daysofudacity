@@ -38,12 +38,16 @@ Worked previously, now left
 
 
 
-### Day 28: July 28, 2019:
+### Day 29: July 29, 2019:
 
 **Progress:**
 
 ![meeting](https://user-images.githubusercontent.com/14244685/62067954-d01cf100-b256-11e9-9251-5c035045fcb7.png)
 
+
+### Day 27: July 27, 2019:
+
+**Progress:**
 
 
 ### Day 27: July 27, 2019:
