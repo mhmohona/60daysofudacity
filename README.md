@@ -39,28 +39,28 @@ Worked previously, now left
 
 
 
-### Day 29: July 29, 2019:
+### Day 32:August, 2019:
 
 **Progress:**
 
 
 
-### Day 29: July 29, 2019:
+### Day 31: July 31, 2019:
 
 **Progress:**
 
 
 
+### Day 30: July 30, 2019:
+
+**Progress:**
+- 
+
+
 ### Day 29: July 29, 2019:
 
 **Progress:**
-
-
-
-### Day 29: July 29, 2019:
-
-**Progress:**
-
+- Worked on 
 
 
 ### Day 29: July 29, 2019:
