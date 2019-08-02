@@ -37,7 +37,30 @@ Worked previously, now left
 *#[sg_cognitive-learners](https://github.com/mhmohona/CognitiveLearners-MediumTrack) : image denoising using autoencoder*
 
 
-## Day 30: July 30, 2019:
+
+
+### Day 29: July 29, 2019:
+
+**Progress:**
+
+
+
+### Day 29: July 29, 2019:
+
+**Progress:**
+
+
+
+### Day 29: July 29, 2019:
+
+**Progress:**
+
+
+
+### Day 29: July 29, 2019:
+
+**Progress:**
+
 
 
 ### Day 29: July 29, 2019:
