@@ -38,6 +38,30 @@ Worked previously, now left
 
 
 
+### Day 32:August 1, 2019:
+
+**Progress:**
+- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+
+
+
+### Day 32:August 1, 2019:
+
+**Progress:**
+- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+
+
+
+### Day 31: July 31, 2019:
+
+**Progress:**
+- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+
+
+### Day 30: July 30, 2019:
+
+**Progress:**
+- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
 
 ### Day 32:August 1, 2019:
 
