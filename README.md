@@ -5,6 +5,8 @@ I pledge to engage with my 'Secure & Private AI Challenge' community for at leas
 ![65584241_2290207797724529_4529659062266101760_n](https://user-images.githubusercontent.com/14244685/61179254-ccffef00-a620-11e9-9bef-83eebb7e8161.jpg)
 
 
+
+
 ## Initiatives I am organizin
 - Organizing Kaggle Hackathon
 - Blogging challenge
@@ -52,17 +54,15 @@ Worked previously, now left
 **Progress:**
 - working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
 
-*todays Motivation : I want to pursue machine learning as a career but not sure if I am qualified. How can I test myself?
+*todays Motivation : I want to pursue machine learning as a career but not sure if I am qualified. How can I test myself?* 
+***answer  Andrew Ng :**
+*You are qualified for a career in machine learning! Whatever your current level of knowledge, so long as you keep working hard and keep learning, you can become expert in machine learning and have a great career there.
 
-answer  Andrew Ng :
+*To anyone interested in the field, start with learning to program. When you’ve mastered the basics of programming, consider the Machine Learning course (Machine Learning | Coursera), then the Deep Learning specialization (deeplearning.ai).
 
-You are qualified for a career in machine learning! Whatever your current level of knowledge, so long as you keep working hard and keep learning, you can become expert in machine learning and have a great career there.
+*To go even further, read research papers (follow ML leaders on twitter to see what papers they’re excited about). Even better, try to replicate the results in the research papers. Trying to replicating others’ results is a one of the most effective but under-appreciated ways to get good at AI. Also consider activities like online ML competitions, academic conferences, and keep reading books/blogs/papers.
 
-To anyone interested in the field, start with learning to program. When you’ve mastered the basics of programming, consider the Machine Learning course (Machine Learning | Coursera), then the Deep Learning specialization (deeplearning.ai).
-
-To go even further, read research papers (follow ML leaders on twitter to see what papers they’re excited about). Even better, try to replicate the results in the research papers. Trying to replicating others’ results is a one of the most effective but under-appreciated ways to get good at AI. Also consider activities like online ML competitions, academic conferences, and keep reading books/blogs/papers.
-
-It’s really not a matter of whether you’re qualified do work in machine learning—I’m sure you are! It’s just a matter of getting the learnings to make yourself more and more qualified.*
+*It’s really not a matter of whether you’re qualified do work in machine learning—I’m sure you are! It’s just a matter of getting the learnings to make yourself more and more qualified.*
 
 
 ### Day 35: August 4, 2019:
@@ -70,7 +70,7 @@ It’s really not a matter of whether you’re qualified do work in machine lear
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 - Announced **HACKATHON SENTIMENTO-V2**
-
+- Working on organizing **Math blogging competetion**.
 
 ### Day 34: August 3, 2019:
 
@@ -82,14 +82,15 @@ It’s really not a matter of whether you’re qualified do work in machine lear
 
 **Progress:**
 - working on *Classification of Motor Imagery Tasks based on BCI Paradigm**
-
+- Working on organizing **Math blogging competetion**.
 
 
 ### Day 32: August 1, 2019:
 
 **Progress:**
 - working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
-- Announced result of**HACKATHON SENTIMENTO** 
+- Announced result of**HACKATHON SENTIMENTO**
+- Working on organizing **Math blogging competetion**.
 
 ![Capture1](https://user-images.githubusercontent.com/14244685/62442408-a6ddf280-b779-11e9-9ea8-87cac4a3b085.PNG)
 
@@ -99,12 +100,14 @@ It’s really not a matter of whether you’re qualified do work in machine lear
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
+- Working on organizing **Math blogging competetion**.
 
 
 ### Day 30: July 30, 2019:
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
+- Working on organizing **Math blogging competetion**.
 
 
 ### Day 29: July 29, 2019:
