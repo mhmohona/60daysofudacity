@@ -1,13 +1,16 @@
 # 60daysofudacity
 I pledge to engage with my 'Secure & Private AI Challenge' community for at least 30 minutes per day for the next 60 days. 😎
 
+
 ![65584241_2290207797724529_4529659062266101760_n](https://user-images.githubusercontent.com/14244685/61179254-ccffef00-a620-11e9-9bef-83eebb7e8161.jpg)
+
 
 ## Initiatives I am organizin
 - Organizing Kaggle Hackathon
 - Blogging challenge
 - Job club
 - Ice breaking session in #Introduction channel
+- Math Blogging Compitition
 
 
 ## Teams I am working with 
@@ -59,7 +62,7 @@ To anyone interested in the field, start with learning to program. When you’ve
 
 To go even further, read research papers (follow ML leaders on twitter to see what papers they’re excited about). Even better, try to replicate the results in the research papers. Trying to replicating others’ results is a one of the most effective but under-appreciated ways to get good at AI. Also consider activities like online ML competitions, academic conferences, and keep reading books/blogs/papers.
 
-It’s really not a matter of whether you’re qualified do work in machine learning—I’m sure you are! It’s just a matter of getting the learnings to make yourself more and more qualified. *
+It’s really not a matter of whether you’re qualified do work in machine learning—I’m sure you are! It’s just a matter of getting the learnings to make yourself more and more qualified.*
 
 
 ### Day 35: August 4, 2019:
@@ -86,6 +89,9 @@ It’s really not a matter of whether you’re qualified do work in machine lear
 
 **Progress:**
 - working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+- Announced result of**HACKATHON SENTIMENTO** 
+
+![Capture1](https://user-images.githubusercontent.com/14244685/62442408-a6ddf280-b779-11e9-9ea8-87cac4a3b085.PNG)
 
 
 
