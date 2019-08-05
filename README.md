@@ -38,14 +38,51 @@ Worked previously, now left
 
 
 
-### Day 32:August 1, 2019:
+### Day 36:August 6, 2019:
 
 **Progress:**
 - working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
 
 
+### Day 36: August 5, 2019:
 
-### Day 32:August 1, 2019:
+**Progress:**
+- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+
+*todays Motivation : I want to pursue machine learning as a career but not sure if I am qualified. How can I test myself?
+
+answer  Andrew Ng :
+
+You are qualified for a career in machine learning! Whatever your current level of knowledge, so long as you keep working hard and keep learning, you can become expert in machine learning and have a great career there.
+
+To anyone interested in the field, start with learning to program. When you’ve mastered the basics of programming, consider the Machine Learning course (Machine Learning | Coursera), then the Deep Learning specialization (deeplearning.ai).
+
+To go even further, read research papers (follow ML leaders on twitter to see what papers they’re excited about). Even better, try to replicate the results in the research papers. Trying to replicating others’ results is a one of the most effective but under-appreciated ways to get good at AI. Also consider activities like online ML competitions, academic conferences, and keep reading books/blogs/papers.
+
+It’s really not a matter of whether you’re qualified do work in machine learning—I’m sure you are! It’s just a matter of getting the learnings to make yourself more and more qualified. *
+
+
+### Day 35: August 4, 2019:
+
+**Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
+- Announced **HACKATHON SENTIMENTO-V2**
+
+
+### Day 34: August 3, 2019:
+
+**Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
+
+
+### Day 33: August 2, 2019:
+
+**Progress:**
+- working on *Classification of Motor Imagery Tasks based on BCI Paradigm**
+
+
+
+### Day 32: August 1, 2019:
 
 **Progress:**
 - working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
@@ -55,50 +92,25 @@ Worked previously, now left
 ### Day 31: July 31, 2019:
 
 **Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 
 
 ### Day 30: July 30, 2019:
 
 **Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
-
-### Day 32:August 1, 2019:
-
-**Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
-
-
-
-### Day 32:August 1, 2019:
-
-**Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
-
-
-
-### Day 31: July 31, 2019:
-
-**Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
-
-
-### Day 30: July 30, 2019:
-
-**Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 
 
 ### Day 29: July 29, 2019:
 
 **Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 
 
 ### Day 29: July 29, 2019:
 
 **Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 
 ![meeting](https://user-images.githubusercontent.com/14244685/62067954-d01cf100-b256-11e9-9251-5c035045fcb7.png)
 
@@ -106,6 +118,7 @@ Worked previously, now left
 ### Day 28: July 28, 2019:
 
 **Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 
 ![mathblogging competition announcement](https://user-images.githubusercontent.com/14244685/62068045-0f4b4200-b257-11e9-9387-4cf11cad1672.PNG)
 
@@ -118,6 +131,7 @@ IT WAS MY BIRTHDAY!!!
 ### Day 25: July 25, 2019:
 
 **Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 - Worked with Coorganizers and Published **Hackathon Auto-matic car**'s result
 - searched research paper in Reddit
 - digging deeper www.arxiv-sanity.com
@@ -128,6 +142,7 @@ IT WAS MY BIRTHDAY!!!
 ### Day 24: July 24, 2019:
 
 **Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 - Read this research paper : https://www.computing.dcu.ie/~ray/teaching/CA485/notes/01_how_to_read_a_paper.pdf?source=post_page---------------------------
 - discussed about lunching **math blogging challenge**
 
@@ -137,6 +152,7 @@ IT WAS MY BIRTHDAY!!!
 ### Day 23: July 23, 2019:
 
 **Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 - working on organizing Hackathon https://www.kaggle.com/spaics/virtual-hackathoncars-dataset
 - read research paper: http://dspace.bracu.ac.bd/xmlui/handle/10361/12274
 
@@ -150,6 +166,7 @@ Target
 - find more research papers
 
 **Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 - Hosted a meetup in #sg_dlstarguys, this my first experience of hosting and i am still shaking! 
 ![sg_dlstarguys  meeting](https://user-images.githubusercontent.com/14244685/61775932-c42acc80-ae1b-11e9-8923-c4a1e93e7e7b.png)
 - discussed about organizing  **Math blogging chalenge**.
