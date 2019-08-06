@@ -49,6 +49,10 @@ Worked previously, now left
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 - Working on **An IOT Based Smart Ballot Box**. 
 - Working on **Making a networking tropology of BRACU using VLSM, Switch configaration and ACL**.
+- had meeting in #sg_dlstarguys with  @sourav kumar @Labiba @Diganta @Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Munira Omar @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma @Archit and @Aniket Mitra 
+
+![Capture](https://user-images.githubusercontent.com/14244685/62558671-4941c700-b89b-11e9-940e-d11feb0a4c57.PNG)
+
 
 ### Day 36: August 5, 2019:
 
