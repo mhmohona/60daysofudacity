@@ -46,8 +46,8 @@ Worked previously, now left
 ### Day 36:August 6, 2019:
 
 **Progress:**
-- working on *Classification of Motor Imagery Tasks based on BCI Paradigm*
-
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
+- Working on **An IOT Based Smart Ballot Box**. 
 
 ### Day 36: August 5, 2019:
 
@@ -76,6 +76,7 @@ Worked previously, now left
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
+- Working on **An IOT Based Smart Ballot Box**.
 
 
 ### Day 33: August 2, 2019:
@@ -83,6 +84,7 @@ Worked previously, now left
 **Progress:**
 - working on *Classification of Motor Imagery Tasks based on BCI Paradigm**
 - Working on organizing **Math blogging competetion**.
+- Working on **An IOT Based Smart Ballot Box**.
 
 
 ### Day 32: August 1, 2019:
@@ -100,7 +102,8 @@ Worked previously, now left
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
-- Working on organizing **Math blogging competetion**.
+- Working on organizing **Math blogging competetion
+- Working on **An IOT Based Smart Ballot Box**.
 
 
 ### Day 30: July 30, 2019:
