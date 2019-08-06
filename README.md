@@ -48,6 +48,7 @@ Worked previously, now left
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
 - Working on **An IOT Based Smart Ballot Box**. 
+- Working on **Making a networking tropology of BRACU using VLSM, Switch configaration and ACL**.
 
 ### Day 36: August 5, 2019:
 
