@@ -50,19 +50,20 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 
 
+
 # 60daysofudacity
 
 
-# 60daysofudacity
+### Day 37:August 7, 2019:
+
+**Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
 
 
 ### Day 36:August 6, 2019:
 
 **Progress:**
-
-
-**Progress:**
-- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
 - Working on **An IOT Based Smart Ballot Box**. 
 - Working on **Making a networking tropology of BRACU using VLSM, Switch configaration and ACL**.
 - had meeting in #sg_dlstarguys with  @sourav kumar @Labiba @Diganta @Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Munira Omar @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma @Archit and @Aniket Mitra 
