@@ -50,9 +50,16 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 
 
+# 60daysofudacity
+
+
+# 60daysofudacity
 
 
 ### Day 36:August 6, 2019:
+
+**Progress:**
+
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**
