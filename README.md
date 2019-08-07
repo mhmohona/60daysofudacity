@@ -54,11 +54,20 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 # 60daysofudacity
 
 
+
+### Day 38:August 8, 2019:
+
+**Progress:**
+- working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
+- Participating in first skype Meetup for Pull request review of the projects related to Project Showcase Challenge with @kkech @Sajjad Manal, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @archit.
+
+
 ### Day 37:August 7, 2019:
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
-
+- Had a great zoom webinar by Brett Ellis (Udacity) **LinkedIn Guide: Getting Interviews w/out Applying Pt 1-Profile Optimization**.
+- Had a meetup with @Labiba @Droid @Munira Omar @Aarthi Alagammai for our project of depression detection. So far we have scraped the dataset and our next target is to clean the data.
 
 ### Day 36:August 6, 2019:
 
