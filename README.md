@@ -68,6 +68,10 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
 - Had a great zoom webinar by Brett Ellis (Udacity) **LinkedIn Guide: Getting Interviews w/out Applying Pt 1-Profile Optimization**.
 - Had a meetup with @Labiba @Droid @Munira Omar @Aarthi Alagammai for our project of depression detection. So far we have scraped the dataset and our next target is to clean the data.
+- Worked on #Job for **resume evaluation**.
+
+![Capture](https://user-images.githubusercontent.com/14244685/62655245-63ef6b00-b983-11e9-95e7-c32e5454ac14.PNG)
+
 
 ### Day 36:August 6, 2019:
 
