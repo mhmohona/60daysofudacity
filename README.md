@@ -55,14 +55,33 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 
 
-### Day 38:August 8, 2019:
+
+### Day 41: August 11, 2019:
+
+**Progress:**
+- Working on showcasing project
+
+
+### Day 40: August 10, 2019:
+
+**Progress:**
+- Working on showcasing project
+
+
+### Day 39: August 9, 2019:
+
+**Progress:**
+- Working on showcasing project
+
+
+### Day 38: August 8, 2019:
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
 - Participating in first skype Meetup for Pull request review of the projects related to Project Showcase Challenge with @kkech @Sajjad Manal, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @archit.
 
 
-### Day 37:August 7, 2019:
+### Day 37: August 7, 2019:
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
@@ -73,7 +92,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 ![Capture](https://user-images.githubusercontent.com/14244685/62655245-63ef6b00-b983-11e9-95e7-c32e5454ac14.PNG)
 
 
-### Day 36:August 6, 2019:
+### Day 36: August 6, 2019:
 
 **Progress:**
 - working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
