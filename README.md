@@ -60,18 +60,25 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 **Progress:**
 - Working on showcasing project
+- worked on **math blogging challenge**.
+- had meeting for project showcase
+- cleaning depressed dataset
 
 
 ### Day 40: August 10, 2019:
 
 **Progress:**
 - Working on showcasing project
-
+- worked on **math blogging challenge**.
+- had meeting for project showcase
+- cleaning depressed dataset
 
 ### Day 39: August 9, 2019:
 
 **Progress:**
 - Working on showcasing project
+- worked on **math blogging challenge**.
+- working on hackathon **sentemento v2**.
 
 
 ### Day 38: August 8, 2019:
