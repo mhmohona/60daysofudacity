@@ -55,6 +55,18 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 
 
+### Day 41: August 11, 2019:
+
+**Progress:**
+- Working on publishing math blogging competition winner.
+- Working with Project Showcase Challenge Team @kkech @Sajjad Manal, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia
+
+### Day 41: August 11, 2019:
+
+**Progress:**
+- Reviewing Articles on Math Blogging Competition 
+- Working with Project Showcase Challenge Team @kkech @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia
+
 
 ### Day 41: August 11, 2019:
 
