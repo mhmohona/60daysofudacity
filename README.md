@@ -56,7 +56,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 ### Day 46: August 15, 2019:
 **Progress:**
-
+- Had a meeting for side project
 
 ### Day 45: August 14, 2019:
 **Progress:**
