@@ -54,9 +54,20 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 # 60daysofudacity
 
 
+
+### Day 48: August 17, 2019:
+**Progress:**
+- Had a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
+
+
+### Day 47: August 16, 2019:
+**Progress:**
+- Had a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
+
+
 ### Day 46: August 15, 2019:
 **Progress:**
-- Had a meeting for side project
+- Had a virtual meetup with @SusanW @Munira Omar @Labiba to follow up the progress in depression-detection project for the project showcase challenge.
 
 ### Day 45: August 14, 2019:
 **Progress:**
