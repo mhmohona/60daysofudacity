@@ -56,20 +56,26 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 
 ### Day 48: August 17, 2019:
-**Progress:**
-- Had a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
 
+**Progress:**
+- gonna have a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
+- Learnt about finding network, broadcasting form IPv4
 
 ### Day 47: August 16, 2019:
 **Progress:**
 - Had a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
-
+- Watched lession 1 of DRLND
+- read paper on **Fog and IoT: An overview of research opportunities**
 
 ### Day 46: August 15, 2019:
+
 **Progress:**
 - Had a virtual meetup with @SusanW @Munira Omar @Labiba to follow up the progress in depression-detection project for the project showcase challenge.
+- Watched lession 1 of DRLND
+
 
 ### Day 45: August 14, 2019:
+
 **Progress:**
 - Announced the second phase of **Math blogging competition**
 - Working with Project Showcase Challenge Team @kkech @Sajjad Manal, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia
