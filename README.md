@@ -55,10 +55,21 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 
 
+
+### Day 49: August 18, 2019:
+
+**Progress:**
+- had a virtual meetup with @SusanW to follow up the progress in depression-detection project for the project showcase challenge.
+- had meeting in #WW_Who_Code.
+- Learning about Wairless and mobile network.
+
+*Today's Motivation :*
+<iframe src="https://giphy.com/embed/VH8hRev1tRM1W" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ellen-degeneres-finding-dory-just-keep-swimming-VH8hRev1tRM1W">via GIPHY</a></p>
+
 ### Day 48: August 17, 2019:
 
 **Progress:**
-- gonna have a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
+- had a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
 - Learnt about finding network, broadcasting form IPv4
 
 ### Day 47: August 16, 2019:
