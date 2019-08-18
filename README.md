@@ -64,7 +64,10 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Learning about Wairless and mobile network.
 
 *Today's Motivation :*
-<iframe src="https://giphy.com/embed/VH8hRev1tRM1W" width="480" height="267" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ellen-degeneres-finding-dory-just-keep-swimming-VH8hRev1tRM1W">via GIPHY</a></p>
+
+![giphy](https://user-images.githubusercontent.com/14244685/63227107-f950f180-c204-11e9-97ae-605ff96fc350.gif)
+
+
 
 ### Day 48: August 17, 2019:
 
