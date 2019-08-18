@@ -74,6 +74,11 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - had a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
 - Learnt about finding network, broadcasting form IPv4
 
+*Today's Motivation :*
+
+![tumblr_p7xazxlGsf1vswgjko1_500](https://user-images.githubusercontent.com/14244685/63227181-bcd1c580-c205-11e9-9262-128f9ee68b3b.gif)
+
+
 ### Day 47: August 16, 2019:
 **Progress:**
 - Had a virtual meetup with @SusanW @Munira Omar @Labiba @Aarthi Alagammai to follow up the progress in depression-detection project for the project showcase challenge.
