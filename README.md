@@ -65,8 +65,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 *Today's Motivation :*
 
-![giphy](https://user-images.githubusercontent.com/14244685/63227107-f950f180-c204-11e9-97ae-605ff96fc350.gif)
-
+![giphy (1)](https://user-images.githubusercontent.com/14244685/63227129-32896180-c205-11e9-9701-8d06d4c08e0f.gif)
 
 
 ### Day 48: August 17, 2019:
