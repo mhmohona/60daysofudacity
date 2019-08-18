@@ -85,6 +85,11 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Watched lession 1 of DRLND
 - read paper on **Fog and IoT: An overview of research opportunities**
 
+*Today's Motivation :*
+
+![tumblr_nplzgn0pai1utb96so1_500](https://user-images.githubusercontent.com/14244685/63227321-e4755d80-c206-11e9-8bd1-2818c7290daa.gif)
+
+
 ### Day 46: August 15, 2019:
 
 **Progress:**
