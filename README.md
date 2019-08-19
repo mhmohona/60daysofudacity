@@ -55,7 +55,12 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 
 
+### Day 49: August 18, 2019:
 
+**Progress:**
+- Learned about VLSM, Switch configaration, IPv4, IPv6, VLAN and ACL.
+
+----
 ### Day 49: August 18, 2019:
 
 **Progress:**
