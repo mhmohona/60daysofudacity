@@ -60,7 +60,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 **Progress:**
 - Learned about VLSM, Switch configaration, IPv4, IPv6, VLAN and ACL.
 
-*Today's Motivation : **It is okay to be scared, its okay to cry, everything is okay but giving up is not an option.**
+*Today's Motivation : **It is okay to be scared, its okay to cry, everything is okay but giving up is not an option.***
 
 ----
 ### Day 49: August 18, 2019:
