@@ -53,9 +53,33 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 # 60daysofudacity
 
+### Day 53: August 21, 2019:
+
+**Progress:**
+- Working on Side Project **Song-recommendation-for-autonomous-Vehicle**.
+- Working on Side Project **Depression Detection Using Twitter Data**.
+- Worked on **howcase-repo-team**.
 
 
-### Day 49: August 18, 2019:
+### Day 52: August 20, 2019:
+
+**Progress:**
+- Working on Side Project **Song-recommendation-for-autonomous-Vehicle**.
+- Working on Side Project **Depression Detection Using Twitter Data**.
+- Worked on **howcase-repo-team**.
+- Had meeting with Teammates of depression detection.
+
+
+### Day 51: August 19, 2019:
+
+**Progress:**
+- Learned about VLSM, Switch configaration, IPv4, IPv6, VLAN and ACL.
+- Working on Side Project **Song-recommendation-for-autonomous-Vehicle**.
+- Working on Side Project **Depression Detection Using Twitter Data**.
+- Had meeting with Teammates of depression detection.
+- Worked on **howcase-repo-team**.
+
+### Day 50: August 18, 2019:
 
 **Progress:**
 - Learned about VLSM, Switch configaration, IPv4, IPv6, VLAN and ACL.
