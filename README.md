@@ -35,7 +35,8 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 **Progress:**
 - Started **Deep Reinforcement Learning for Enterprise Nanodegree Program**
 - Working on **resume evaluation** 
-![Capture](https://user-images.githubusercontent.com/14244685/63532922-8fe72080-c52d-11e9-8703-cd7893bbbe3f.PNG)
+
+
 
 
 ### Day 53: August 21, 2019:
@@ -44,6 +45,8 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Working on Side Project **Song-recommendation-for-autonomous-Vehicle**.
 - Working on Side Project **Depression Detection Using Twitter Data**.
 - Worked on **howcase-repo-team**.
+
+![meeting](https://user-images.githubusercontent.com/14244685/63532918-8eb5f380-c52d-11e9-8a61-24033cb28062.PNG)
 
 
 ### Day 52: August 20, 2019:
@@ -54,6 +57,9 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Worked on **howcase-repo-team**.
 - Had meeting with Teammates of depression detection.
 
+*Todays Motivation*
+
+![Capture](https://user-images.githubusercontent.com/14244685/63532922-8fe72080-c52d-11e9-8703-cd7893bbbe3f.PNG)
 
 ### Day 51: August 19, 2019:
 
@@ -63,6 +69,8 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Working on Side Project **Depression Detection Using Twitter Data**.
 - Had meeting with Teammates of depression detection.
 - Worked on **howcase-repo-team**.
+
+![Capture2](https://user-images.githubusercontent.com/14244685/63532920-8f4e8a00-c52d-11e9-8fdd-f6b888e6464a.PNG)
 
 
 ### Day 50: August 18, 2019:
