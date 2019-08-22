@@ -16,17 +16,25 @@ I pledge to engage with my 'Secure & Private AI Challenge' community for at leas
 - 
 
 ## Project: 
+- DepressionDetection-Using-Twitter-Data - https://github.com/mhmohona/DepressionDetection-Using-Twitter-Data
+- Song-recommendation-for-autonomous-Vehicle - https://github.com/mhmohona/Song-recommendation-for-autonomous-Vehicle
 
 
-
-Want to read
+Reading now
 --
 users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 
+--
 
 
 
 # 60daysofudacity
+
+### Day 53: August 21, 2019:
+
+**Progress:**
+- Started **Deep Reinforcement Learning for Enterprise Nanodegree Program**
+- 
 
 ### Day 53: August 21, 2019:
 
