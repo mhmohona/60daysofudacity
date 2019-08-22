@@ -34,7 +34,9 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 **Progress:**
 - Started **Deep Reinforcement Learning for Enterprise Nanodegree Program**
-- 
+- Working on **resume evaluation** 
+![Capture](https://user-images.githubusercontent.com/14244685/63532922-8fe72080-c52d-11e9-8703-cd7893bbbe3f.PNG)
+
 
 ### Day 53: August 21, 2019:
 
@@ -61,6 +63,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Working on Side Project **Depression Detection Using Twitter Data**.
 - Had meeting with Teammates of depression detection.
 - Worked on **howcase-repo-team**.
+
 
 ### Day 50: August 18, 2019:
 
