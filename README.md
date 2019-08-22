@@ -13,34 +13,9 @@ I pledge to engage with my 'Secure & Private AI Challenge' community for at leas
 - Job club
 - Ice breaking session in #Introduction channel
 - Math Blogging Compitition
+- 
 
-
-## Teams I am working with 
-*#sg_hackathon-orgnizrs : organizing hackathon.*
-
-*#sg_spaic-kagglers : working on Kaggle project.*
-
-*#sg_applied_dl : Kaggle Project*
-
-*#sg_scorchers : Patient hospital dataset and security.*
-
-*#sg_dlstarguys : Maths of ML and DL.*
-
-*#sg_depressn-detectn : Predecting depression based on social media posts.*
-
-*#sg_caffeine_coders : Detecting depression on twitter post*
-
-*#sg_spai-health : Mental health*
-
-
-Worked previously, now left
-
-*#[sg_wonder_vision](https://github.com/mahakbansal/Object-Detection-60daysofudacity) : object detection.*
-
-*#sg_wrldwde-women-cdrs : NNs and CNNs*
-
-*#[sg_cognitive-learners](https://github.com/mhmohona/CognitiveLearners-MediumTrack) : image denoising using autoencoder*
-
+## Project: 
 
 
 
