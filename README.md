@@ -30,13 +30,15 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 # 60daysofudacity
 
-### Day 53: August 21, 2019:
+### Day 54: August 23, 2019:
 
 **Progress:**
 - Started **Deep Reinforcement Learning for Enterprise Nanodegree Program**
 - Working on **resume evaluation** 
 
+![Capture3](https://user-images.githubusercontent.com/14244685/63532921-8fe72080-c52d-11e9-850f-2597b47f048a.PNG)
 
+*Today's Motivation : **It is okay to be scared, its okay to cry, everything is okay but giving up is not an option.***
 
 
 ### Day 53: August 21, 2019:
@@ -45,8 +47,9 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Working on Side Project **Song-recommendation-for-autonomous-Vehicle**.
 - Working on Side Project **Depression Detection Using Twitter Data**.
 - Worked on **howcase-repo-team**.
+- Working on **Math Blogging competition**
 
-![meeting](https://user-images.githubusercontent.com/14244685/63532918-8eb5f380-c52d-11e9-8a61-24033cb28062.PNG)
+![Capture1](https://user-images.githubusercontent.com/14244685/63532917-8eb5f380-c52d-11e9-996b-fda87139f222.PNG)
 
 
 ### Day 52: August 20, 2019:
@@ -57,9 +60,8 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Worked on **howcase-repo-team**.
 - Had meeting with Teammates of depression detection.
 
-*Todays Motivation*
+![meeting](https://user-images.githubusercontent.com/14244685/63532918-8eb5f380-c52d-11e9-8a61-24033cb28062.PNG)
 
-![Capture](https://user-images.githubusercontent.com/14244685/63532922-8fe72080-c52d-11e9-8703-cd7893bbbe3f.PNG)
 
 ### Day 51: August 19, 2019:
 
@@ -78,7 +80,10 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 **Progress:**
 - Learned about VLSM, Switch configaration, IPv4, IPv6, VLAN and ACL.
 
-*Today's Motivation : **It is okay to be scared, its okay to cry, everything is okay but giving up is not an option.***
+*Today's Motivation :*
+
+![Pocahontas - Listen With Your Heart](https://user-images.githubusercontent.com/14244685/63532541-b8224f80-c52c-11e9-821d-8ffd7dff9939.gif)
+
 
 ----
 ### Day 49: August 18, 2019:
@@ -130,6 +135,11 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Announced the second phase of **Math blogging competition**
 - Working with Project Showcase Challenge Team @kkech @Sajjad Manal, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia
 - working on Side project.
+
+*Todays Motivation*
+
+![Capture](https://user-images.githubusercontent.com/14244685/63532922-8fe72080-c52d-11e9-8703-cd7893bbbe3f.PNG)
+
 
 ### Day 44: August 13, 2019:
 
