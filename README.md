@@ -35,6 +35,10 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 ### Day 54: August 22, 2019:
 
 **Progress:**
+
+### Day 54: August 22, 2019:
+
+**Progress:**
 - Started **Deep Reinforcement Learning for Enterprise Nanodegree Program**
 - Working on **resume evaluation** 
 
