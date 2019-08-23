@@ -36,6 +36,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 **Progress:**
 - Watching **Deep Reinforcement Learning for Enterprise Nanodegree Program**.
+- Playing with  *OpenAI Gym*.
 
 ### Day 54: August 22, 2019:
 
