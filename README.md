@@ -47,6 +47,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 **Progress:**
 - Working on FINAL THESIS!
+- Worked on announcing the result of blogging competition.
 - Read about Need Theory: Maslow's Hierarchy of Needs, Herzberg's 2 factor Theory, Expectancy theory
 - Read about Hershey Blanchard Situational Leadership Model, The Fiedler's Model 
 - Read about Purpose of Controlling, Types of Control, The Control Process, Need for Control 
@@ -60,24 +61,24 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Read about The elements of organizing, designing jobs, grouping jobs. Establishing Reporting Relationship.
 
 
-
 ### Day 55: August 23, 2019:
 
 **Progress:**
 - Watching **Deep Reinforcement Learning for Enterprise Nanodegree Program**.
 - Playing with  *OpenAI Gym*.
-- Read about Introduction to management, management process, kinds of managers 
-- Read about Precursors to Management Theory
-- Read about Organizational environment: External and internal environment 
 - Read about The nature of International Business, The Meaning of International Business, Trends in International Business, Managing the Process of Globalization: Importing/exporting, licensing, Strategic Alliance and Direct Investment, Competing in a Global Market.
 - Read about Decision making and planning 
 process, organizational goals, organizational planning, vision, mission, Organizational Planning (strategic, tactical and operational), Single-Use Plan and Standing Plan
+
 
 ### Day 54: August 22, 2019:
 
 **Progress:**
 - Started **Deep Reinforcement Learning for Enterprise Nanodegree Program**
 - Working on **resume evaluation** 
+ Read about Introduction to management, management process, kinds of managers 
+- Read about Precursors to Management Theory
+- Read about Organizational environment: External and internal environment 
 
 ![Capture3](https://user-images.githubusercontent.com/14244685/63532921-8fe72080-c52d-11e9-850f-2597b47f048a.PNG)
 
