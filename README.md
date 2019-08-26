@@ -35,6 +35,11 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 ### Day 58: August 26, 2019:
 
 **Progress:**
+- Working on FINAL THESIS!
+- Read about Need Theory: Maslow's Hierarchy of Needs, Herzberg's 2 factor Theory, Expectancy theory
+- Read about Hershey Blanchard Situational Leadership Model, The Fiedler's Model 
+- Read about Purpose of Controlling, Types of Control, The Control Process, Need for Control 
+
 
 ### Day 57: August 25, 2019:
 
