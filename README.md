@@ -39,6 +39,12 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 ### Day 57: August 25, 2019:
 
 **Progress:**
+- Read about Nature of Strategic management, using SWOT analysis to formulate strategy.
+- Read about Formulate corporate –level.
+- Read about Devil's Advocate, Nature of decision making, rational perspectives on decision making, Decision Making Conditions ( Risk, Certainty and Uncertainty). 
+- Read about Behavioral aspects of decision making, Heuristics and Biases in Decision Making. 
+- Read about The elements of organizing, designing jobs, grouping jobs. Establishing Reporting Relationship.
+
 
 ### Day 56: August 24, 2019:
 
