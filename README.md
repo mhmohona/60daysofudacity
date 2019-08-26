@@ -32,7 +32,18 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 # 60daysofudacity
 
-### Day 58: August 26, 2019:
+### Day 58: August 27, 2019:
+
+**Progress:**
+
+
+
+### Day 57: August 26, 2019:
+
+**Progress:**
+
+
+### Day 56: August 25, 2019:
 
 **Progress:**
 - Working on FINAL THESIS!
@@ -41,9 +52,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Read about Purpose of Controlling, Types of Control, The Control Process, Need for Control 
 
 
-### Day 57: August 25, 2019:
-
-**Progress:**
+### Day 55: August 24, 2019:
 - Read about Nature of Strategic management, using SWOT analysis to formulate strategy.
 - Read about Formulate corporate –level.
 - Read about Devil's Advocate, Nature of decision making, rational perspectives on decision making, Decision Making Conditions ( Risk, Certainty and Uncertainty). 
@@ -51,25 +60,18 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 - Read about The elements of organizing, designing jobs, grouping jobs. Establishing Reporting Relationship.
 
 
-### Day 56: August 24, 2019:
-
-**Progress:**
 
 ### Day 55: August 23, 2019:
+
+**Progress:**
+- Watching **Deep Reinforcement Learning for Enterprise Nanodegree Program**.
+- Playing with  *OpenAI Gym*.
 - Read about Introduction to management, management process, kinds of managers 
 - Read about Precursors to Management Theory
 - Read about Organizational environment: External and internal environment 
 - Read about The nature of International Business, The Meaning of International Business, Trends in International Business, Managing the Process of Globalization: Importing/exporting, licensing, Strategic Alliance and Direct Investment, Competing in a Global Market.
 - Read about Decision making and planning 
 process, organizational goals, organizational planning, vision, mission, Organizational Planning (strategic, tactical and operational), Single-Use Plan and Standing Plan
-
-
-### Day 55: August 23, 2019:
-
-
-**Progress:**
-- Watching **Deep Reinforcement Learning for Enterprise Nanodegree Program**.
-- Playing with  *OpenAI Gym*.
 
 ### Day 54: August 22, 2019:
 
