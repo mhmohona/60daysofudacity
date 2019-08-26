@@ -45,6 +45,14 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 **Progress:**
 
 ### Day 55: August 23, 2019:
+- Read about Introduction to management, management process, kinds of managers 
+- Read about Precursors to Management Theory
+- Read about Organizational environment: External and internal environment 
+- Read about The nature of International Business, The Meaning of International Business, Trends in International Business, Managing the Process of Globalization: Importing/exporting, licensing, Strategic Alliance and Direct Investment, Competing in a Global Market.
+- Read about Decision making and planning 
+process, organizational goals, organizational planning, vision, mission, Organizational Planning (strategic, tactical and operational), Single-Use Plan and Standing Plan
+
+
 
 **Progress:**
 - Watching **Deep Reinforcement Learning for Enterprise Nanodegree Program**.
