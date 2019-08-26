@@ -32,6 +32,14 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 # 60daysofudacity
 
+### Day 57: August 25, 2019:
+
+**Progress:**
+
+### Day 56: August 24, 2019:
+
+**Progress:**
+
 ### Day 55: August 23, 2019:
 
 **Progress:**
