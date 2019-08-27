@@ -32,6 +32,16 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 # 60daysofudacity
 
+### Day 60: August 29, 2019:
+
+**Progress:**
+
+
+### Day 59: August 28, 2019:
+
+**Progress:**
+
+
 ### Day 58: August 27, 2019:
 
 **Progress:**
@@ -41,6 +51,8 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 ### Day 57: August 26, 2019:
 
 **Progress:**
+- Read about design techniques using MSI and LSI components, design of memory subsystem using SRAM and DRAM, design of various components of a computer: ALU, memory and control unit: hardwired and micro programmed, microprocessor based designs, computer bus standards, design using special purpose controllers, floppy disk controller, digital control system, computers in telecommunication and control. 
+- Working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
 
 
 ### Day 56: August 25, 2019:
