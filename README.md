@@ -40,7 +40,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 ### Day 59: August 28, 2019:
 
 **Progress:**
-
+- thesis defense 
 
 ### Day 58: August 27, 2019:
 
