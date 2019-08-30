@@ -15,7 +15,7 @@ I pledge to engage with my 'Secure & Private AI Challenge' community for at leas
 - Job club
 - Ice breaking session in #Introduction channel
 - Math Blogging Compitition
-- 
+- Project showcasing Repo Team
 
 ## Project: 
 - DepressionDetection-Using-Twitter-Data - https://github.com/mhmohona/DepressionDetection-Using-Twitter-Data
@@ -28,6 +28,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 
 --
 
+![60-day-badges](https://user-images.githubusercontent.com/14244685/63990155-c6f89b80-cb04-11e9-8083-b4ac310f803b.png)
 
 
 # 60daysofudacity
@@ -35,23 +36,32 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 ### Day 60: August 29, 2019:
 
 **Progress:**
+- Driving deep into Deep Reinforcement Learning
+- Working on publishing result of **Math Blogging Compitition**.
+- Working on publishing result of **Blogging challenge**.
 
 
 ### Day 59: August 28, 2019:
 
 **Progress:**
-- thesis defense 
+- **THESIS DEFENCE!!!**
 
 ### Day 58: August 27, 2019:
 
 **Progress:**
-
-
+- Read about computer bus standards, 
+- Read about design using special purpose controllers, 
+- Read about floppy disk controller, digital control system, 
+- Read about computers in telecommunication and control. 
+- WOrking on thesis presentation
 
 ### Day 57: August 26, 2019:
 
 **Progress:**
-- Read about design techniques using MSI and LSI components, design of memory subsystem using SRAM and DRAM, design of various components of a computer: ALU, memory and control unit: hardwired and micro programmed, microprocessor based designs, computer bus standards, design using special purpose controllers, floppy disk controller, digital control system, computers in telecommunication and control. 
+- Read about design techniques using MSI and LSI components, 
+- Read about design of memory subsystem using SRAM and DRAM, 
+- Read about design of various components of a computer: ALU, memory and control unit: hardwired and micro programmed, 
+- Read about microprocessor based designs, 
 - Working on **Classification of Motor Imagery Tasks based on BCI Paradigm**.
 
 
@@ -511,4 +521,8 @@ Working on project Food recommendation system.
 
 ### Day 1 : July 1, 2019:
 Working on project Food recommendation system.
+
+
+![You are so amaizing moana](https://user-images.githubusercontent.com/14244685/63990164-d24bc700-cb04-11e9-9a14-cecaafffb842.gif)
+
 
