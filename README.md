@@ -11,7 +11,14 @@ I pledge to engage with my 'Secure & Private AI Challenge' community for at leas
 
 ## Initiatives I am organizin
 - Organizing Kaggle Hackathon
+
+![Capture](https://user-images.githubusercontent.com/14244685/64845243-7a947c00-d62b-11e9-83e1-bae4ae1cd812.PNG)
+
+
 - Blogging challenge
+
+![Capture](https://user-images.githubusercontent.com/14244685/64844970-d8749400-d62a-11e9-904d-506c5d797c50.PNG)
+
 - Job club
 - Ice breaking session in #Introduction channel
 - Math Blogging Compitition
@@ -31,7 +38,7 @@ users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20A
 ![60-day-badges](https://user-images.githubusercontent.com/14244685/63990155-c6f89b80-cb04-11e9-8083-b4ac310f803b.png)
 
 
-![Capture](https://user-images.githubusercontent.com/14244685/64844970-d8749400-d62a-11e9-904d-506c5d797c50.PNG)
+
 
 
 # 60daysofudacity
